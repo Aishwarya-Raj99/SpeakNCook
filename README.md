@@ -1,5 +1,5 @@
-Speak and Cook
-Speak and Cook is a cross-platform voice-based cooking recipe search and telling application. It is designed to provide users with a seamless cooking experience by offering voice-activated recipe searches and step-by-step cooking instructions. The app is developed for Android, macOS, Web, Linux, and Windows platforms using Flutter.
+Speak and Cook---
+Speak n cook is a cross-platform voice-based cooking recipe search and telling application. It is designed to provide users with a seamless cooking experience by offering voice-activated recipe searches and step-by-step cooking instructions. The app is developed for Android, macOS, Web, Linux, and Windows platforms using Flutter.
 
 Introduction:
 Speak and Cook leverages voice recognition technology to make cooking easier and more interactive. Users can search for recipes using voice commands and receive audible step-by-step instructions, allowing them to focus on cooking without needing to touch their device.
