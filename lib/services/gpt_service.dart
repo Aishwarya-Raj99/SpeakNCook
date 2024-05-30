@@ -5,7 +5,7 @@ import 'package:speak_and_stir/models/ingredient.dart';
 import 'dart:async';
 
 class GPTNLP {
-  final String apiKey = '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';
+  final String apiKey = '';
   bool _generationInProgress = false;
 
   Future<String> generateText(String prompt) async {
